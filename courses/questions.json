@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does SRS stand for in software development?",
+    "options": ["System Requirement Standards", "Software Requirement Specification", "Software Ready Sheet", "System Ready Specification"],
+    "answer": "Software Requirement Specification"
+  },
+  {
+    "question": "Which of the following is NOT a key component of an SRS?",
+    "options": ["Functional Requirements", "System Features", "Design Constraints", "Source Code"],
+    "answer": "Source Code"
+  },
+  {
+    "question": "Which type of requirement defines how the system performs under certain conditions?",
+    "options": ["Functional Requirement", "Non-functional Requirement", "Interface Requirement", "Design Constraint"],
+    "answer": "Non-functional Requirement"
+  },
+  {
+    "question": "Which of the following is an example of a functional requirement?",
+    "options": ["The system shall allow users to log in", "The system shall be fast", "The system shall be secure", "The system shall support multiple languages"],
+    "answer": "The system shall allow users to log in"
+  },
+  {
+    "question": "Requirement engineering does NOT include which of the following?",
+    "options": ["Prototyping", "Documenting", "Validating", "Deployment"],
+    "answer": "Deployment"
+  },
+  {
+    "question": "Which is the first step in the requirement engineering process?",
+    "options": ["Documentation", "Validation", "Elicitation", "Analysis"],
+    "answer": "Elicitation"
+  },
+  {
+    "question": "Which of these is NOT a common method of requirement elicitation?",
+    "options": ["Interviews", "Brainstorming", "Code Compilation", "Observation"],
+    "answer": "Code Compilation"
+  },
+  {
+    "question": "What is the purpose of using use cases during elicitation?",
+    "options": ["To code the application", "To design the database", "To understand how users interact with the system", "To validate the UI"],
+    "answer": "To understand how users interact with the system"
+  },
+  {
+    "question": "Which step checks for conflicts and missing information in requirements?",
+    "options": ["Elicitation", "Documentation", "Validation", "Analysis"],
+    "answer": "Analysis"
+  },
+  {
+    "question": "What is a conflict in requirement analysis?",
+    "options": ["Two requirements support each other", "One requirement contradicts another", "A requirement is missing", "All requirements are correct"],
+    "answer": "One requirement contradicts another"
+  },
+  {
+    "question": "In documentation, which format is used to record analyzed requirements?",
+    "options": ["Database", "Checklist", "SRS Document", "Report Sheet"],
+    "answer": "SRS Document"
+  },
+  {
+    "question": "What is the purpose of reviewing the SRS document?",
+    "options": ["To publish it online", "To validate user feedback", "To confirm everything is accurate with stakeholders", "To complete the UI design"],
+    "answer": "To confirm everything is accurate with stakeholders"
+  },
+  {
+    "question": "What does requirement management involve?",
+    "options": ["Handling requirement changes", "Testing modules", "Designing interfaces", "Generating source code"],
+    "answer": "Handling requirement changes"
+  },
+  {
+    "question": "Which of the following is part of requirement management?",
+    "options": ["Deleting old requirements", "Keeping the SRS updated", "Writing code from SRS", "Building UI"],
+    "answer": "Keeping the SRS updated"
+  },
+  {
+    "question": "Which study checks if a project is possible before development begins?",
+    "options": ["Requirement Study", "SRS Review", "Feasibility Study", "Technical Test"],
+    "answer": "Feasibility Study"
+  },
+  {
+    "question": "Which feasibility type checks if the technology is available?",
+    "options": ["Economic", "Technical", "Legal", "Schedule"],
+    "answer": "Technical"
+  },
+  {
+    "question": "Which feasibility checks if the cost is justified by the benefits?",
+    "options": ["Technical", "Operational", "Economic", "Legal"],
+    "answer": "Economic"
+  },
+  {
+    "question": "What does operational feasibility focus on?",
+    "options": ["Programming tools", "User-friendliness and usability", "Legal documents", "Schedules"],
+    "answer": "User-friendliness and usability"
+  },
+  {
+    "question": "Schedule feasibility is concerned with:",
+    "options": ["Cost", "Timeframe", "Security", "Privacy"],
+    "answer": "Timeframe"
+  },
+  {
+    "question": "Legal feasibility ensures the system complies with:",
+    "options": ["Schedules", "Client opinions", "Regulations and laws", "Budget constraints"],
+    "answer": "Regulations and laws"
+  },
+  {
+    "question": "Which method involves watching users in real-world settings?",
+    "options": ["Prototyping", "Questionnaire", "Observation", "Interview"],
+    "answer": "Observation"
+  },
+  {
+    "question": "Why is a feasibility study important?",
+    "options": ["To make UI better", "To save cost and avoid failed projects", "To start testing early", "To finish faster"],
+    "answer": "To save cost and avoid failed projects"
+  },
+  {
+    "question": "Which method helps visualize requirements before full development?",
+    "options": ["Testing", "Documentation", "Prototyping", "Coding"],
+    "answer": "Prototyping"
+  },
+  {
+    "question": "What should be done after documenting requirements?",
+    "options": ["Start coding", "Delete documents", "Review with stakeholders", "Run test cases"],
+    "answer": "Review with stakeholders"
+  },
+  {
+    "question": "A requirement that allows filtering products by price and rating is a:",
+    "options": ["Functional requirement", "Non-functional requirement", "Legal requirement", "Schedule constraint"],
+    "answer": "Functional requirement"
+  },
+  {
+    "question": "Which requirement affects performance, reliability, and security?",
+    "options": ["Functional", "Interface", "Design", "Non-functional"],
+    "answer": "Non-functional"
+  },
+  {
+    "question": "A conflict in requirements should be resolved during:",
+    "options": ["Design", "Coding", "Analysis", "Review"],
+    "answer": "Analysis"
+  },
+  {
+    "question": "Which feasibility type checks if users will actually use the system?",
+    "options": ["Schedule", "Technical", "Operational", "Legal"],
+    "answer": "Operational"
+  },
+  {
+    "question": "When is the 'wishlist feature' added during requirement changes?",
+    "options": ["Documentation", "Requirement Management", "Testing", "Prototyping"],
+    "answer": "Requirement Management"
+  },
+  {
+    "question": "Which document is a structured reference for all stakeholders?",
+    "options": ["Test Plan", "Code Manual", "SRS Document", "Deployment Note"],
+    "answer": "SRS Document"
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mock Test</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Mock Test</h1>
+    <h2 id="timer">Time Left: 10:00</h2>
+    <div id="quiz-container">
+      <div id="question-box">
+        <p id="question-number"></p>
+        <p id="question-text"></p>
+        <div id="options-container"></div>
+      </div>
+      <div class="navigation-buttons">
+        <button id="prev-btn">Previous</button>
+        <button id="next-btn">Next</button>
+        <button id="submit-btn">Submit</button>
+      </div>
+    </div>
+    <div id="result-container" class="hidden">
+      <h2>Your Score: <span id="score"></span>/30</h2>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
