@@ -1,8 +1,3 @@
-# 🌟 Vidya Vistar: A Smart Leap in Learning 🚀
-
-> *"
----
-
 # 🌍 THEME: ED-TECH 
 ---
 
