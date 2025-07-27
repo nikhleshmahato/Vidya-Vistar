@@ -1,7 +1,6 @@
 # 🌟 Vidya Vistar: A Smart Leap in Learning 🚀
 
-> *"Everyone gets the same 24 hours. It's your environment and choices that define whether you scroll or succeed."* — Team Vidya Vistar
-
+> *"We Make Projects To Help MANKIND."* — Team AVENGERS 
 ---
 
 ## 🎯 Problem Statement
@@ -20,7 +19,7 @@
 - Structured learning, no guesswork
 
 ### 2️⃣ Resource Hub 🌐
-- Inspired by community tags like <code>#trends</code> on Twitter
+- Inspired by community tags like <code>#trends</code> on Discord 
 - Public feedback helps highlight important tech resources
 - Curated videos licensed and rated by our learners — <em>not algorithms</em>
 - No like/share distractions — we use honest, learner-based ranking
